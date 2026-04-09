@@ -1,6 +1,6 @@
 # statBlogs
 
-## Collection of sudden thoughts
+## Thoughts and reflections
 
 ### Dice Games
   - Market on Die I
